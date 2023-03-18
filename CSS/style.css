@@ -812,17 +812,17 @@ img {
 
 
 .form-policy {
+    position: relative;
     font-size: 12px;
     line-height: 1.333;
     letter-spacing: 0.004em;
     color: var(--color-customers-border);
-    position: relative;
 
 }
 
 .policy-direction {
     margin-top: 16px;
-
+    position: relative;
 }
 
 .check-input {
