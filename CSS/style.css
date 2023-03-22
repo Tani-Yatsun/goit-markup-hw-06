@@ -817,12 +817,15 @@ img {
     line-height: 1.333;
     letter-spacing: 0.004em;
     color: var(--color-customers-border);
+    padding-left: 8px;
 
 }
 
 .policy-direction {
     margin-top: 16px;
     position: relative;
+    display: flex;
+    align-items: center;
 }
 
 .check-input {
